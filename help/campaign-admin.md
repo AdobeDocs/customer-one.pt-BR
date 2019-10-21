@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - A nova experiência de suporte empresarial está sen
 description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 seo-description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
 
 ---
 
@@ -30,7 +30,7 @@ Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Sup
 * Conceder acesso do usuário ao portal para suporte
 
 >[!NOTE]
->Confirme que você aceita essa função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Experience Manager/Adobe Campaign, completando e enviando o documento [!DNL System Admin Confirmation Form] até 4 de novembro de 2019.\
+>Confirme que você aceita essa função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Campaign, completando e enviando o documento [!DNL System Admin Confirmation Form] até 4 de novembro de 2019.\
 >Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização.
 
 Após enviar o [!DNL System Admin Confirmation Form], nenhuma ação adicional será necessária para você no momento.  Entraremos em contato com os administradores do sistema para saber as próximas etapas no início de 2020.
