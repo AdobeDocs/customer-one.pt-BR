@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager - Nova experiência de suporte disponível
 description: Adobe Experience Manager - Nova experiência de suporte disponível
 seo-description: Adobe Experience Manager - Nova experiência de suporte disponível
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Sup
 * Iniciar conversas de bate-papo com conveniência [!DNL Adobe Customer Support]
 * Conceder acesso do usuário ao portal para suporte
 
-Confirme que você aceita esta função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Experience Manager/Adobe Campaign completando e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) até 4 de novembro de 2019.  Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização.
+>[!NOTE]
+>Confirme que você aceita essa função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos Adobe Experience Manager, **preenchendo e enviando o[[!DNL System Admin Formulário de confirmação]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)até 4 de novembro de 2019**.
+>Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização.
 
 Uma confirmação por email será enviada após o recebimento do [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
