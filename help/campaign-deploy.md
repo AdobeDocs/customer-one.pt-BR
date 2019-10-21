@@ -4,7 +4,7 @@ description: Sua nova experiência de suporte ao cliente da Adobe está chegando
 seo-title: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
 seo-description: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
 
 ---
 
@@ -27,7 +27,9 @@ Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Sup
 * Iniciar conversas de bate-papo com conveniência [!DNL Adobe Customer Support]
 * Conceder acesso do usuário ao portal para suporte
 
-Confirme que você aceita esta função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Experience Manager/Adobe Campaign completando e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) até 4 de novembro de 2019. Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização e permitirá que forneça mais detalhes para ajudar sua organização a se preparar para as próximas alterações.
+>[!NOTE]
+>Confirme que você aceita esta função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Campaign, **preenchendo e enviando o[[!DNL System Admin Formulário de confirmação]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)até 4 de novembro de 2019**.
+>Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização e permitirá que forneça mais detalhes para ajudar sua organização a se preparar para as próximas alterações.
 
 Uma confirmação por email será enviada após o recebimento do [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
