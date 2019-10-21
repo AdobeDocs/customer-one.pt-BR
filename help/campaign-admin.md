@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - A nova experiência de suporte empresarial está sen
 description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 seo-description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 translation-type: tm+mt
-source-git-commit: ab441fe873ce4b5d85a478290186eb1593905454
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -23,10 +23,10 @@ Para começar, precisamos de sua ajuda para confirmar quem será o Administrador
 
 Nossos registros indicam que você é um Administrador de sistema **designado em sua organização**, a pessoa responsável por gerenciar e enviar solicitações de suporte para esses produtos da Adobe.
 
-Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Support Tab] que permite:
+Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Support Portal] que permite:
 
 * Explore os recursos aprimorados de gerenciamento de casos
-* Iniciar conversas de bate-papo com conveniência [!DNL Adobe Customer Care]
+* Iniciar conversas de bate-papo com conveniência [!DNL Adobe Customer Support]
 * Conceder acesso do usuário ao portal para suporte
 
 >[!NOTE]
