@@ -1,15 +1,15 @@
 ---
-title: Campaign - Nova experiência de suporte está chegando
+title: '[!DNL Campaign] - Nova experiência de suporte está chegando'
 seo-title: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 seo-description: Adobe Campaign - A nova experiência de suporte empresarial está sendo lançada
 translation-type: tm+mt
-source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
+source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# Campaign - A nova experiência de suporte está chegando
+# [!DNL Campaign] - A nova experiência de suporte está chegando
 
 **21 de outubro de 2019**
 
