@@ -1,10 +1,10 @@
 ---
-title: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
-description: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
-seo-title: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
-seo-description: Sua nova experiência de suporte ao cliente da Adobe está chegando - entre em contato com a implantação do Campaign
+title: Sua nova experiência de suporte ao cliente da Adobe está chegando - [!DNL Campaign] implante o contato
+description: Sua nova experiência de suporte ao cliente da Adobe está chegando - [!DNL Campaign] implante o contato
+seo-title: Sua nova experiência de suporte ao cliente da Adobe está chegando - [!DNL Campaign] implante o contato
+seo-description: Sua nova experiência de suporte ao cliente da Adobe está chegando - [!DNL Campaign] implante o contato
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
