@@ -5,7 +5,7 @@ sub-product: cliente um
 audience: usuário final
 user-guide-title: Ajuda do [!DNL Customer One for Enterprise]
 translation-type: tm+mt
-source-git-commit: cb092898fe8e150511fc77d4c66c1c836180af09
+source-git-commit: 7cf1dc6e369fd28ab7569ee3d52f03dd3e7cb639
 
 ---
 
@@ -13,10 +13,10 @@ source-git-commit: cb092898fe8e150511fc77d4c66c1c836180af09
 # [!DNL Customer One for Enterprise] {#using}
 
 + [Introdução](home.md)
-+ Campanha {#campaign}
-   + [Lista de avisos da campanha](campaign-list.md)
-   + [Aviso de administrador da campanha - 21-10-19](campaign-admin.md)
-   + [Aviso de implantação da campanha - 21-10-19](campaign-deploy.md)
++ [!DNL Campaign] {#campaign}
+   + [Lista de avisos da [!DNL Campaign]](campaign-list.md)
+   + [Aviso de administrador do [!DNL Campaign] - 10-21-19](campaign-admin.md)
+   + [Aviso de Implantação do [!DNL Campaign] - 10-21-19](campaign-deploy.md)
 + Experience Manager {#aem}
    + [Lista de avisos do AEM](aem-list.md)
    + [Aviso de administrador do AEM - 21-10-19](aem-admin.md)
