@@ -7,39 +7,40 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 ---
 
 
-# Nova experiência de suporte ao cliente da Adobe
+# Nova experiência de Suporte ao cliente da Adobe
 
-Preocupamo-nos com nossos clientes e estamos a trabalhar para facilitar a obtenção de ajuda do Suporte ao cliente da Adobe quando os nossos clientes precisam de assistência - começando pelo Adobe Experience Manager e produtos de Campanha. Nossa visão é simplificar a experiência de suporte mudando para um portal de entrada moderno, o Portal de suporte do Adobe Admin Console. Pretendemos implementar estas alterações em maio de 2020. Assim que estiver ativo, sua organização poderá acessar o Suporte ao cliente da Adobe; ter maior visibilidade do seu histórico de serviços através de um portal de entrada comum; e solicite ajuda por telefone, Web e bate-papo em um único portal.
+Nossos clientes são nossa prioridade. Por isso, estamos trabalhando para tornar o acesso ao Suporte ao cliente da Adobe ainda mais fácil, começando por dois produtos: Adobe Experience Manager e Adobe Campaign. Nosso objetivo é simplificar a experiência de suporte, transferindo-a para um portal de entrada moderno, o Portal de suporte do Adobe Admin Console, com lançamento previsto para maio de 2020. Com a entrada em funcionamento do novo Suporte ao cliente da Adobe, sua organização terá uma maior visibilidade do histórico de serviços e poderá solicitar ajuda por telefone, chat ou pelo site, tudo em um só portal.
 
 ## Mais informações
 
-Em fevereiro e março, a Adobe irá configurar os novos Administradores de sistema de suporte e Usuários de suporte neste portal. Se nossos registros indicarem que você atua atualmente como Administrador de sistema de suporte no Admin Console da Adobe - ou - seu nome foi listado no contrato de compra como contato do cliente da Adobe para implantar o Adobe Campaign e/ou o Adobe Experience Manager em sua organização, você será configurado como Administrador de sistema de suporte para sua organização.
-Os administradores de sistema de suporte agirão como superusuários no Admin Console e verão emails gerados pelo sistema sempre que um novo usuário de suporte for criado. Além disso, poderão:
+Em fevereiro e março, a Adobe fará a configuração dos novos administradores do sistema de suporte e dos novos usuários de suporte no portal. Caso seu nome conste como administrador do sistema de suporte no Adobe Admin Console ou nos dados de contato para a implantação do Adobe Campaign e/ou Adobe Experience Manager no contrato de compra, o administrador do sistema de suporte para a sua organização será configurado com o seu nome.
+Os administradores do sistema de suporte desempenharão o papel de superusuários no Admin Console e verão os emails gerados pelo sistema sempre que um novo usuário de suporte for criado. Além disso, eles poderão:
 
 * Criar/remover usuários de suporte no portal e controlar funções de acesso
-* Tire proveito das ferramentas de gerenciamento de casos que facilitam o trabalho por meio de casos de suporte com o Suporte ao cliente da Adobe
-* Iniciar conversas de bate-papo com o Suporte ao cliente da Adobe de forma conveniente
+* Aproveitar as ferramentas de gerenciamento que facilitam o trabalho com o Suporte ao cliente da Adobe por meio de casos de suporte
+* Iniciar chat com o Suporte ao cliente da Adobe
 
-## O que esperar durante os próximos meses
+## Novidades dos próximos meses
 
-### Fevereiro - Configuração do usuário
+### Fevereiro: configuração de usuários
 
-* Adobe para configurar o administrador do sistema conhecido; Contatos do contrato e usuários de suporte conhecidos no novo sistema
-* E-mails gerados pelo sistema enviados - usuários configurados e ativos do sistema somente para criação/validação do usuário
+* A Adobe fará a configuração do administrador do sistema, dos contatos do contrato e dos usuários de suporte conhecidos no novo sistema
+* Envio de emails gerados pelo sistema, configuração de usuários e entrada em funcionamento do sistema somente para criação/validação de usuários
 
 
-### Março - Validação do usuário
+### Março: validação de usuários
 
-* A Adobe deve entrar em contato com a Administração do sistema/Contatos contratuais com as próximas etapas Administradores do sistema/Contatos contratuais para validar os usuários de suporte existentes e criar quaisquer usuários de suporte ausentes no novo sistema
+* A Adobe entrará em contato com os administradores do sistema/contatos do contrato para informar as etapas subsequentes
+Os administradores do sistema/contatos do contrato validarão os usuários de suporte existentes e, se necessário, criarão novos usuários de suporte no novo sistema
 
-### Abril - Ativação
+### Abril: ativação
 
-* A Adobe fornece materiais de aprendizado para todos os usuários do sistema de suporte
-* Contatos de Admin/Contrato do Sistema para finalizar a configuração e as funções do usuário de suporte
+* A Adobe fornecerá materiais de aprendizagem a todos os usuários do sistema de suporte
+* Os administradores do sistema/contatos do contrato finalizarão a configuração e a definição das funções dos usuários de suporte
 
-### May - Launch!
+### Maio: lançamento
 
-* A Adobe deve anunciar o lançamento do novo sistema
-* Os clientes começam a usar o novo sistema
+* A Adobe anunciará o lançamento do novo sistema
+* Os clientes passarão a usar o novo sistema
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Para dúvidas relacionadas com este email, escreva para [customercare@adobe.com](mailto:customercare@adobe.com).
