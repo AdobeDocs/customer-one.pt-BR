@@ -1,7 +1,7 @@
 ---
-title: Anúncio da nova experiência de suporte ao cliente da Adobe
-description: Primeira comunicação do cliente para novas experiências de suporte
-translation-type: tm+mt
+title: Apresentação da nova experiência de Suporte ao cliente da Adobe
+description: Primeira comunicação com o cliente sobre a nova experiência de suporte
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
@@ -9,7 +9,7 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 # Nova experiência de Suporte ao cliente da Adobe
 
-Nossos clientes são nossa prioridade. Por isso, estamos trabalhando para tornar o acesso ao Suporte ao cliente da Adobe ainda mais fácil, começando por dois produtos: Adobe Experience Manager e Adobe Campaign. Nosso objetivo é simplificar a experiência de suporte, transferindo-a para um portal de entrada moderno, o Portal de suporte do Adobe Admin Console, com lançamento previsto para maio de 2020. Com a entrada em funcionamento do novo Suporte ao cliente da Adobe, sua organização terá uma maior visibilidade do histórico de serviços e poderá solicitar ajuda por telefone, chat ou pelo site, tudo em um só portal.
+Nossos clientes são nossa prioridade. Por isso, estamos trabalhando para tornar o acesso ao Suporte ao cliente da Adobe ainda mais fácil, começando por dois produtos: Adobe Experience Manager e Adobe Campaign. Nosso objetivo é simplificar a experiência de suporte, transferindo-a para um portal de entrada moderno, o Portal de suporte do Adobe Admin Console, com lançamento previsto para maio de 2020. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços e poderá solicitar ajuda por telefone, chat ou pelo site, tudo em um só portal.
 
 ## Mais informações
 
