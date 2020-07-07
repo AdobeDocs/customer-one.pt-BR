@@ -1,38 +1,43 @@
 ---
-title: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
-description: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
-seo-title: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
-seo-description: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
-translation-type: ht
-source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
+title: Sua nova experiência de suporte ao cliente da Adobe está chegando - Contato de implantação do AEM
+description: Sua nova experiência de suporte ao cliente da Adobe está chegando - Contato de implantação do AEM
+seo-title: Sua nova experiência de suporte ao cliente da Adobe está chegando - Contato de implantação do AEM
+seo-description: Sua nova experiência de suporte ao cliente da Adobe está chegando - Contato de implantação do AEM
+translation-type: tm+mt
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 66%
 
 ---
 
 
-# Sua nova experiência [!DNL Adobe Customer Support] está chegando
+# Sua nova experiência de [!DNL Adobe Customer Support] está chegando
 
 **21 de outubro de 2019**
 
-Estamos trabalhando em algumas melhorias importantes na experiência de suporte para nossos clientes do Adobe Experience Manager e do Adobe Campaign. Com essas mudanças, que planejamos lançar em abril/maio de 2020, sua organização poderá acessar [!DNL Adobe Customer Support], e seu histórico de serviços terá maior visibilidade por meio de um portal de entrada comum. Continuaremos fornecendo mais informações à sua organização à medida que nos aproximarmos do lançamento.
+Estamos trabalhando em algumas melhorias importantes na experiência de suporte para nossos clientes do Adobe Experience Manager e do Adobe Campaign. Essas mudanças, que planejamos lançar em abril/maio de 2020, permitirão que sua organização acesse o [!DNL Adobe Customer Support] e dê maior visibilidade ao seu histórico de serviços por meio de um portal de entrada comum. Continuaremos a fornecer mais informações à sua organização à medida que nos aproximamos da implementação.
 
-Para começar, precisamos de sua ajuda para confirmar quem será o Administrador do sistema em nome de sua organização.
+Para começar, precisamos de sua ajuda para confirmar quem será o Administrador do Sistema em nome de sua organização.
 
-## AÇÃO: confirme o nome do Administrador do sistema
+## AÇÃO: confirme o administrador do sistema (Administrador do sistema)
 
-De acordo com nossos registros, você foi identificado como o contato principal durante o processo de compra original dos produtos do Adobe Experience Manager/Adobe Campaign de sua organização. Como resultado, você está listado como o **Administrador do sistema** designado, responsável por gerenciar e enviar solicitações de suporte para estes produtos da Adobe.
+Nossos registros identificaram você como o contato principal durante o processo de compra original para o(s) produto(s) Adobe Experience Manager/Adobe Campaign da sua organização. As a result, you are listed as the designated **System Admin**, the person responsible for managing and submitting support requests for these Adobe products.
 
-Como Administrador do sistema, você tem acesso a [!DNL Adobe Admin Console Support Portal], e com isso pode:
+Como administrador do sistema, você tem acesso ao [!DNL Adobe Admin Console Support Portal], que permite a você:
 
 * Explorar os recursos aprimorados de gerenciamento de casos
-* Iniciar bate-papos com [!DNL Adobe Customer Support], conforme sua conveniência
-* Conceder ao usuário de suporte o acesso ao portal
+* Iniciar conversas de bate-papo convenientemente com [!DNL Adobe Customer Support]
+* Conceder acesso do usuário ao portal para suporte
 
 >[!NOTE]
->Confirme que você aceita a função (ou informe um ponto de contato alternativo) de Administrador de sistema da sua organização para produtos do Adobe Experience Manager, **preenchendo e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) até 4 de novembro de 2019**.
->Ao preencher este formulário, você terá a garantia de que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização e obterá mais detalhes para ajudar sua organização a se preparar para as próximas alterações.
+>
+>Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager products by **completing and submitting the[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)by November 4, 2019**.
+>
+>Ao preencher este formulário, ele garantirá que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização e permitirá fornecer mais detalhes para ajudar sua organização a se preparar para as próximas alterações.
 
 Uma confirmação por email será enviada após o recebimento do [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
-Para perguntas relacionadas a este email, entre em contato conosco em customercare@adobe.com.
+Em caso de dúvidas relacionadas a este email, entre em contato conosco em customercare@adobe.com.
 
-Agradecemos pela sua colaboração.
+Agradecemos pela sua ajuda.
