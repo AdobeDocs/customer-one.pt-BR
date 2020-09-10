@@ -3,9 +3,9 @@ title: '[!DNL Campaign] — Uma nova experiência de suporte está chegando'
 seo-title: Adobe Campaign — Uma nova experiência de suporte empresarial está chegando
 description: Adobe Campaign — Uma nova experiência de suporte empresarial está chegando
 seo-description: Adobe Campaign — Uma nova experiência de suporte empresarial está chegando
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 
