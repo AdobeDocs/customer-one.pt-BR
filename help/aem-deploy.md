@@ -3,9 +3,9 @@ title: Sua nova experiência de Suporte ao cliente da Adobe está chegando — c
 description: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
 seo-title: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
 seo-description: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do AEM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
