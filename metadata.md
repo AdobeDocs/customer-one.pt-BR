@@ -1,16 +1,19 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Aprendizagem e suporte
 solution-hub-url: https://helpx.adobe.com/br/support/experience-cloud.html
 solution-image: help/assets/experience-cloud-logo-24.png
 getting-started-title: Introdução
 getting-started-url: https://experienceleague.adobe.com/?lang=pt#recommended/solutions/analytics
 tutorials-title: Tutoriais
-tutorials-url: https://experienceleague.adobe.com/?lang=pt#recommended/solutions/analytics
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.en
+tutorials-url: https://experienceleague.adobe.com/
+git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.pt-BR
 index: false
-translation-type: ht
-source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
+translation-type: tm+mt
+source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
