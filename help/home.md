@@ -2,13 +2,13 @@
 keywords: Suporte ao Experience Platform, suporte à plataforma, suporte a serviços inteligentes; Suporte a assistência ao cliente; Apoio à atribuição de ajudas; suporte a rtcdp; enviar tíquete de suporte, suporte ao cliente
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Nova experiência de suporte ao cliente da Adobe
-seo-description: Nova experiência de suporte ao cliente da Adobe
-seo-title: Adobe Experience Cloud Customer One para Enterprise
+seo-description: New Adobe Customer Support Experience
+seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
+source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -65,26 +65,3 @@ Não será mais possível enviar novos tíquetes/casos em sistemas antigos a par
 * Entre os dias 11 e 20 de maio, os sistemas herdados permanecerão disponíveis para trabalhar com tíquetes/casos existentes até a conclusão.
 * A partir de 20 de maio, a equipe de suporte migrará os casos restantes abertos dos sistemas herdados para a nova experiência de suporte.  Você receberá uma notificação por email sobre como entrar em contato com o suporte para continuar trabalhando nesses casos.
 
-### Histórico de casos
-
-O histórico de casos fechados estará visível para a equipe de suporte do Adobe.  Se precisar de ajuda com relação a um caso fechado, consulte a seção Precisa de ajuda? abaixo.
-
-## Precisa de ajuda?
-
-Depois do lançamento, se você encontrar problemas e não conseguir fazer logon na nova ferramenta, terá as seguintes opções:
-
-### Opção 1: Enviar um tíquete
-
-Entre em contato conosco registrando um tíquete de [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) e incluindo:
-
-* Informações de contato: Nome, endereço de email, telefone
-* Nome da empresa
-* Produto Adobe próprio
-* Prioridade do problema
-* Breve descrição do problema
-
-### Opção 2: Antes de 11 de maio
-
-Antes de 11 de maio, você ainda pode usar os sistemas de gerenciamento de casos [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) ou [Experience Manager Daycare](https://daycare.day.com/home.html) herdados.  A partir de 11 de maio, você será redirecionado para o [Admin Console](https://adminconsole.adobe.com/), pois esses sistemas não aceitarão novos casos.
-
-Para dúvidas relacionadas a este email, registre um tíquete em [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
