@@ -1,14 +1,14 @@
 ---
 keywords: Suporte ao Experience Platform, suporte à plataforma, suporte a serviços inteligentes; Suporte a assistência ao cliente; Apoio à atribuição de ajudas; suporte a rtcdp; enviar tíquete de suporte, suporte ao cliente
-title: Adobe Experience Cloud Customer One para Enterprise
-description: Nova experiência de Suporte ao cliente da Adobe
+title: Adobe Experience Cloud Customer One for Enterprise
+description: Nova experiência de suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
+source-git-commit: acb06781b0e56e6222394b1736fbf8a80ee2aab8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '611'
+ht-degree: 1%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ## Tíquetes de suporte do Admin Console
 
-Agora, os tíquetes de suporte podem ser enviados pelo [Admin Console](https://adminconsole.adobe.com/). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [enviar um tíquete de suporte](#submit-ticket).
+Agora, os tíquetes de suporte podem ser enviados por meio do [Admin Console](https://adminconsole.adobe.com/). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção para [enviar um tíquete de suporte](#submit-ticket).
 
-Conforme informado anteriormente, estamos trabalhando para melhorar sua interação com o Suporte ao cliente da Adobe, começando pelo Adobe Experience Manager e pelo Campaign. Nosso objetivo é simplificar a experiência de suporte, mudando para um ponto de acesso centralizado, usando o Adobe Admin Console. Assim que o novo Suporte ao cliente do Adobe estiver funcionando, sua organização poderá acessar facilmente o Suporte ao cliente do; ter maior visibilidade do histórico de serviços por meio de um sistema comum entre produtos; e solicitar ajuda por telefone, Web e bate-papo por meio de um único portal.
+Conforme compartilhado anteriormente, estamos trabalhando para melhorar a interação com o Suporte ao cliente do Adobe, começando pelo Adobe Experience Manager e pelo Campaign. Nosso objetivo é simplificar a experiência de suporte, mudando para um único ponto de entrada, usando a Adobe Admin Console. Assim que o novo Suporte ao cliente do Adobe estiver funcionando, sua organização poderá acessar facilmente o Suporte ao cliente do; ter maior visibilidade do histórico de serviços por meio de um sistema comum entre produtos; e solicitar ajuda por telefone, Web e bate-papo por meio de um único portal.
 
 ## Como enviar um tíquete de suporte do Admin Console {#submit-ticket}
 
-Para enviar um tíquete de suporte em [Admin Console](https://adminconsole.adobe.com/), é necessário ter a função de administrador de suporte atribuída por um Administrador do sistema. Somente um Administrador de sistema da organização pode atribuir essa função. Produto, Perfil de Produto e outras funções administrativas não podem atribuir a função de administrador de Suporte e não podem visualizar a opção **[!UICONTROL Criar Caso]** usada para enviar um tíquete de suporte. Para obter mais informações, visite a documentação do [atendimento ao cliente de equipes e empresas](https://helpx.adobe.com/br/enterprise/using/support-and-expert-services.html).
+Para enviar um tíquete de suporte em [Admin Console](https://adminconsole.adobe.com/), é necessário ter a função de administrador de suporte atribuída por um Administrador do sistema. Somente um Administrador de sistema da organização pode atribuir essa função. Produto, Perfil de Produto e outras funções administrativas não podem atribuir a função de administrador de Suporte e não podem visualizar a opção **[!UICONTROL Criar Caso]** usada para enviar um tíquete de suporte. Para obter mais informações, visite a documentação do [atendimento ao cliente de equipes e empresas](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
 
 ### Atribuir a função de administrador de suporte
 
@@ -56,12 +56,12 @@ A próxima página permite que você preencha as informações de contato e forn
 
 ![Enviar tíquete](./assets/submit_case.png)
 
-## E quanto aos sistemas herdados?
+## E os sistemas herdados?
 
-Não será mais possível enviar novos tíquetes/casos em sistemas antigos a partir de 11 de maio.  O [Admin Console](https://adminconsole.adobe.com/) será usado para enviar novos tíquetes/casos.
+Não será mais possível enviar novos tíquetes/casos em sistemas herdados a partir de 11 de maio.  O [Admin Console](https://adminconsole.adobe.com/) será usado para enviar novos tíquetes/casos.
 
 ### Tíquetes/casos existentes
 
-* Entre os dias 11 e 20 de maio, os sistemas herdados permanecerão disponíveis para trabalhos com tíquetes/casos existentes até a conclusão.
-* A partir de 20 de maio, a equipe de suporte migrará os casos que continuarem abertos nos sistemas herdados para a nova experiência de suporte.  Você receberá uma notificação por email referente a como entrar em contato com o suporte para continuar trabalhando nesses casos.
+* Entre os dias 11 e 20 de maio, os sistemas herdados permanecerão disponíveis para trabalhar com tíquetes/casos existentes até a conclusão.
+* A partir de 20 de maio, a equipe de suporte migrará os casos restantes abertos dos sistemas herdados para a nova experiência de suporte.  Você receberá uma notificação por email sobre como entrar em contato com o suporte para continuar trabalhando nesses casos.
 
