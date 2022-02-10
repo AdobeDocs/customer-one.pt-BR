@@ -3,7 +3,7 @@ title: Apresentação da nova experiência de Suporte ao cliente do Adobe
 description: Comunicação com o cliente para uma nova experiência de suporte
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 5%
@@ -38,7 +38,7 @@ Além disso, os administradores do sistema de suporte poderão:
 
 ## O que você pode esperar em seguida
 
-**Fevereiro/Março - Configuração do Usuário**
+**Fevereiro/Março de 2022 - Configuração do usuário**
 
 * Configuração de usuários de suporte conhecidos no sistema de portal como Administradores do Suporte ao Cliente
 * Os emails gerados pelo sistema serão enviados aos usuários configurados pelo Adobe
@@ -47,7 +47,7 @@ Além disso, os administradores do sistema de suporte poderão:
 >
 >Nesse estágio, o portal ainda não está ativo para enviar casos de suporte.
 
-**Abril - Ativação**
+**Abril de 2022 - Ativação**
 
 * Serão fornecidos materiais de aprendizagem a todos os utilizadores do sistema de portal
 * Administrador do sistema/contatos designados para finalizar a configuração e as funções do usuário de suporte
