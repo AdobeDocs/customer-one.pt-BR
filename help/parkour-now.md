@@ -1,21 +1,21 @@
 ---
-title: Apresentação da nova experiência de Suporte ao cliente da Adobe
+title: Nova experiência de suporte ao cliente da Adobe
 description: Comunicação com o cliente para uma nova experiência de suporte
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
-source-git-commit: 55c49665c29ad3a5ac6613ddee19368dbf31e3f1
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 17%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Nova experiência de Suporte ao cliente da Adobe
+# Nova experiência de suporte ao cliente da Adobe
 
 Nós nos importamos com nossos clientes e estamos trabalhando para facilitar a obtenção de ajuda do Suporte ao cliente do Adobe quando nossos clientes precisarem de assistência. O Adobe está aprimorando a maneira como você recebe suporte ao cliente para Adobe Analytics, Target e Audience Manager, simplificando a experiência em um portal de suporte básico único, o Adobe Admin Console. Essa transição permitirá maior visibilidade do histórico de serviços e permitirá que você solicite suporte por telefone, Web e bate-papo em uma plataforma comum. Essas alterações deverão ocorrer em abril de 2022.
 
-Continuaremos fornecendo mais informações à sua organização à medida que nos aproximamos do lançamento.
+Continuaremos a fornecer mais informações à sua organização à medida que a data de lançamento se aproximar.
 
 ## Mais informações
 
@@ -26,15 +26,15 @@ Durante os meses de fevereiro e março de 2022, o Adobe irá configurar os novos
 
 Os administradores do sistema de suporte e os administradores do suporte ao cliente verão os emails gerados pelo sistema à medida que os usuários de suporte forem criados no Admin Console. Ambas as funções de usuário poderão:
 
-* Aproveitar as ferramentas de gerenciamento que facilitam o trabalho com o Suporte ao cliente da Adobe por meio de casos de suporte
-* Iniciar chat com o Suporte ao cliente da Adobe para Adobe Analytics
+* Aproveite as ferramentas de gerenciamento de casos que facilitam o trabalho com o Suporte ao cliente do Adobe por meio de casos de suporte
+* Iniciar bate-papos com o Suporte ao cliente do Adobe para Adobe Analytics
 * Ter maior visibilidade do histórico de serviços
 * Navegue pelos tópicos e fóruns populares da Ajuda.
 
 Além disso, os administradores do sistema de suporte poderão:
 
 * Criar/remover usuários de suporte no portal e controlar funções de acesso
-* Revise e valide a precisão dos usuários de suporte em sua organização. (Para obter instruções, consulte: [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) e [Gerenciamento de contas de equipes](https://helpx.adobe.com/br/enterprise/using/accounts.html).)
+* Revise e valide a precisão dos usuários de suporte em sua organização. (Para obter instruções, consulte: [Gerenciar usuários](https://helpx.adobe.com/enterprise/using/users.html) e [Gerenciamento de contas de equipes](https://helpx.adobe.com/enterprise/using/accounts.html).)
 
 ## O que você pode esperar em seguida
 
