@@ -1,9 +1,10 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.pt-BR
-index: true
-source-git-commit: cab19c7570a9e87a63750bab62036758654ecdae
+index: false
+source-git-commit: 5aac28e9211bf44db725034218222f730b49d6bd
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 96%
