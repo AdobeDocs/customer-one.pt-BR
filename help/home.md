@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
 workflow-type: tm+mt
 source-wordcount: '664'
-ht-degree: 74%
+ht-degree: 76%
 
 ---
 
@@ -43,9 +43,7 @@ Para enviar um tíquete de suporte no [Admin Console](https://adminconsole.adobe
 
 A função de administrador de suporte é uma função não administrativa que tem acesso a informações relacionadas ao suporte. Os administradores de suporte podem visualizar, criar e gerenciar relatórios de problemas.
 
-Para atribuir a função de administrador de suporte, siga as instruções para [editar a função de administrador corporativo](https://helpx.adobe.com/br/enterprise/using/admin-roles.html#add-admin-teams
-
-) na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](https://helpx.adobe.com/br/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
+Para atribuir a função de administrador de suporte, siga as instruções para [editar a função de administrador corporativo](https://helpx.adobe.com/br/enterprise/using/admin-roles.html#add-admin-teams) na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](https://helpx.adobe.com/br/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
 
 ### Criar um tíquete de suporte com o Admin Console
 
