@@ -1,13 +1,13 @@
 ---
-title: Anúncio da nova experiência de suporte ao cliente do Adobe (anúncio anterior)
+title: Apresentação da nova experiência de Suporte ao cliente da Adobe (anúncio anterior)
 description: Primeira comunicação com o cliente sobre a nova experiência de suporte
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
