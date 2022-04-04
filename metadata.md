@@ -5,23 +5,23 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.pt-BR
 index: false
 source-git-commit: 5aac28e9211bf44db725034218222f730b49d6bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de acordo de recompra que passam para os arquivos TOC.md do guia do usuário no repo. Se desejar alterar o conteúdo de metadata.md de qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que passa pelos arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md para qualquer guia do usuário, use qualquer arquivo TOC.md.
 
 | metadados | o que fazem |
 |--- |--- |
 | solution-title | Usado no cabeçalho do artigo como link |
-| solution-title | Abre a página do hub do helpx |
+| solution-hub-url | Abre a página do hub helpx |
 | solution-icon | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
 | getting-started-url | Link para a página de introdução ao helpx |
 | tutorials-url | Link para tutoriais em vídeo — tutoriais do helpx ou tutoriais do KT |
 | mini-toc-levels | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
-| git-repo | Especifica o local do acordo principal para uso interno |
+| git-repo | Especifica o local do repositório principal para uso interno |
