@@ -7,7 +7,7 @@ user-guide-title: '[!DNL Customer One for Enterprise] Ajuda'
 source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
 source-wordcount: '15'
-ht-degree: 6%
+ht-degree: 60%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 6%
 + [Entre em contato com o Atendimento ao cliente do Adobe](customer-care.md)
 + Documentos de referência {#ref-docs}
    + [Anúncio anterior](intro-customer-support.md)
-   + [Anúncio de Parkour Now](parkour-now.md)
+   + [Anúncio do Parkour Now](parkour-now.md)
