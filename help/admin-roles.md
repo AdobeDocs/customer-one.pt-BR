@@ -1,13 +1,13 @@
 ---
 title: Funções administrativas
 description: Usando a Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permite o gerenciamento refinado do acesso e uso do produto Adobe.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Funções administrativas
 
@@ -45,7 +45,7 @@ _Hierarquia de funções administrativas_
 
 Para obter uma lista detalhada de permissões e privilégios para cada função de administrador, consulte [Permissões](#enterprise-admins-permissions-matrix).
 
-## Adicionar um administrador corporativo
+## Adicionar uma função de administrador corporativo {#add-enterprise-role}
 
 Aplica-se a: Clientes empresariais Adobe.
 

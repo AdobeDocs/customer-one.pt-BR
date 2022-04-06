@@ -5,7 +5,7 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 100%
@@ -43,7 +43,7 @@ Para enviar um tíquete de suporte no [Admin Console](https://adminconsole.adobe
 
 A função de administrador de suporte é uma função não administrativa que tem acesso a informações relacionadas ao suporte. Os administradores de suporte podem visualizar, criar e gerenciar relatórios de problemas.
 
-Para atribuir a função de administrador de suporte, siga as instruções para [editar a função de administrador corporativo](admin-roles.md#add-admin-teams) na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
+Para atribuir a função de administrador de suporte, siga as instruções para [editar a função de administrador corporativo](admin-roles.md#add-enterprise-role) na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
 
 ### Criar um tíquete de suporte com o Admin Console
 
