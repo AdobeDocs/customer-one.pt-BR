@@ -3,9 +3,9 @@ title: Funções administrativas
 description: Usando o Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permite o gerenciamento otimizado do acesso e da utilização dos produtos da Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
