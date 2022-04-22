@@ -5,9 +5,9 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: ht
-source-wordcount: '646'
+source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
+workflow-type: tm+mt
+source-wordcount: '487'
 ht-degree: 100%
 
 ---
@@ -19,21 +19,6 @@ ht-degree: 100%
 Agora, os tíquetes de suporte podem ser enviados pelo [Admin Console](https://adminconsole.adobe.com/). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção de [envio de um tíquete de suporte](#submit-ticket).
 
 Estamos trabalhando para melhorar a interação com o Suporte ao cliente do Adobe. Nosso objetivo é simplificar a experiência de suporte, mudando para um ponto de acesso centralizado, usando o Adobe Admin Console. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços em um mesmo sistema para os produtos e poderá solicitar ajuda por telefone, chat ou site, tudo em um só portal.
-
-## Precisa de ajuda com a nova Plataforma de suporte?
-
-Estamos oferecendo uma série de reuniões online para responder às dúvidas dos clientes sobre o novo processo de suporte. Selecione uma ou mais para participar:
-
-| Data e hora | Link de registro |
-|--- |--- |
-| Quinta-feira, 7 de abril, às 8h PT | [Link do evento](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Quinta-feira, 7 de abril, às 17h PT | [Link do evento](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Quarta-feira, 20 de abril, às 8h PT | [Link do evento](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Quarta-feira, 20 de abril, às 17h PT | [Link do evento](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Quinta-feira, 21 de abril, às 8h PT | [Link do evento](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Quinta-feira, 21 de abril, às 17h PT | [Link do evento](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
-
-{style=&quot;table-layout:auto&quot;}
 
 ## Como enviar um tíquete de suporte do Admin Console {#submit-ticket}
 
