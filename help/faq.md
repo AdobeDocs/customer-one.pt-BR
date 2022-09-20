@@ -5,7 +5,7 @@ description: Perguntas frequentes sobre o Adobe Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ Consulte [este documento](overview.md) destacando algumas das novas adições de
 
 +++**Quais são os recursos de treinamento disponíveis para o AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/br/enterprise/using/admin-console.html >
 
 +++
 

@@ -4,7 +4,7 @@ title: Visão geral de suporte do Adobe Workfront
 description: A Adobe Workfront está se unindo à Adobe Admin Console Platform.
 source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
