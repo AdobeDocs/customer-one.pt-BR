@@ -1,36 +1,36 @@
 ---
-keywords: Suporte da Workfront, enviar tíquete de suporte, suporte ao cliente
-title: Visão geral de suporte do Adobe Workfront
-description: A Adobe Workfront está se unindo à Adobe Admin Console Platform.
+keywords: Suporte da Workfront; enviar tíquete de suporte; suporte ao cliente
+title: Visão geral do suporte do Adobe Workfront
+description: O Adobe Workfront está se integrando à plataforma Adobe Admin Console.
 source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '238'
+ht-degree: 100%
 
 ---
 
-# Visão geral de suporte do Adobe Workfront
+# Visão geral do suporte do Adobe Workfront
 
-A Adobe Workfront está se unindo à Adobe Admin Console Platform.
+O Adobe Workfront está se integrando à plataforma Adobe Admin Console.
 
-Nos próximos meses, os clientes serão contatados para coordenar uma migração para o Adobe Identity and Admin Console, um console administrativo de sistema ainda mais seguro e funcional. Estes são alguns benefícios da mudança futura:
+Nos próximos meses, os clientes serão contatados para coordenar uma migração para o Adobe Identity e Admin Console, um console administrativo de sistema ainda mais seguro e funcional. Veja abaixo alguns benefícios da alteração que se aproxima:
 
-* Autentique para a Workfront e outros produtos usando uma única identidade de Adobe.
-* Gerencie direitos do usuário separadamente entre ambientes de produção e sandbox ou de visualização.
-* Utilize Várias configurações de SSO para usuários da Workfront.
-* Gerencie direitos ao Workfront da mesma forma que outros produtos de Adobe.
+* Autenticar para o Workfront e outros produtos por meio da utilização de uma única Adobe Identity.
+* Gerenciar separadamente direitos do usuário para ambientes de produção e sandbox ou de pré-visualização.
+* Utilizar várias configurações de SSO para usuários do Workfront.
+* Gerenciar o direito ao Workfront da mesma forma que os relativos a outros produtos da Adobe.
 
-Para obter uma análise detalhada do Adobe Identity e do Admin Console, é possível fazer referência a [página de suporte](https://helpx.adobe.com/enterprise/admin-guide.html). Há também uma comparação do console Workfront atual e do novo console Adobe [here](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Para obter uma análise detalhada do Adobe Identity e Admin Console, consulte esta [página de suporte](https://helpx.adobe.com/br/enterprise/admin-guide.html). Há também uma comparação entre o console Workfront atual e o novo console da Adobe [aqui](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Além disso, há uma pergunta frequente disponível para referência [here](faq.md).
+Além disso, as perguntas frequentes podem ser consultadas [aqui](faq.md).
 
 ## Detalhes da migração do cliente
 
-Os clientes atuais serão contatados para agendar migrações a partir de julho de 2022.  Nossos colegas de suporte da equipe de migração guiarão os clientes pelo processo, recomendarão a configuração do Console e fornecerão links para a documentação necessária para tornar a mudança o mais simples e sem complicações possível.
+Os clientes atuais serão contatados para programar a migração a partir de julho de 2022.  Nossos colegas do suporte da equipe de migração vão orientar os clientes ao longo do processo, recomendar a configuração do Console e fornecer links para a documentação necessária para deixar a mudança o mais simples e sem complicações possível.
 
-Novos clientes líquidos a partir de julho de 2022 serão colocados automaticamente no Adobe Admin Console e não exigirão mais ações.
+A partir de julho de 2022, novos clientes líquidos serão colocados automaticamente no Adobe Admin Console, sem a necessidade de outras ações.
