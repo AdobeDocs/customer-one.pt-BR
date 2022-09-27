@@ -1,33 +1,33 @@
 ---
-title: Página de aterrissagem do Admin Console Workfront
-description: Página de aterrissagem do Admin Console Workfront
+title: Página de destino do Admin Console do Workfront
+description: Página de destino do Admin Console do Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Página de aterrissagem do Admin Console Workfront
+# Página de destino do Admin Console do Workfront
 
-Preparar-se para integrar sua organização à Adobe Admin Console [lista de verificação de migração](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html):
+Prepare-se para integrar sua organização ao Adobe Admin Console [lista de verificação da migração](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/admin-in-admin-console/prep-for-admin-console.html?lang=pt-BR):
 
 **Lista de verificação da migração**
 
-* Identifique a Adobe Admin Console desejada onde deseja adicionar o Workfront.
+* Identifique o Adobe Admin Console ao qual você gostaria de adicionar o Workfront.
 
-   Se você já tiver outros produtos do Adobe, confirme sua disponibilidade para adicionar o Adobe Workfront ao seu Adobe Admin Console atual. Se precisar de mais informações, use [este link](https://helpx.adobe.com/br/enterprise/using/admin-console.html) para entender as práticas recomendadas para gerenciar os produtos de Adobe.
+   Caso já tenha outros produtos da Adobe, confirme seu consentimento em adicionar o Adobe Workfront ao seu Adobe Admin Console atual. Se precisar de mais informações, use [este link](https://helpx.adobe.com/br/enterprise/using/admin-console.html) para conhecer as práticas recomendadas para o gerenciamento de seus produtos da Adobe.
 
-* Consulte a [link a seguir](https://helpx.adobe.com/enterprise/using/deployment-planning.html) para obter ajuda com sua implantação.
-* Se estiver utilizando o Logon único, será necessário conectar a nova Adobe Admin Console ao seu provedor SSO existente.
-* Certifique-se de que os emails duplicados sejam removidos e que somente endereços de email válidos sejam usados.
-* Se estiver utilizando integrações de API personalizadas, confirme se os usuários têm um endereço de email válido que podem acessar.
+* Consulte o [link a seguir](https://helpx.adobe.com/br/enterprise/using/deployment-planning.html) para obter ajuda com a implantação.
+* Caso esteja utilizando o logon único, será necessário conectar o novo Adobe Admin Console ao seu provedor SSO atual.
+* Certifique-se de que os emails duplicados sejam removidos e de que somente endereços de email válidos sejam usados.
+* Caso utilize integrações de API personalizadas, verifique se os usuários têm acesso a um endereço de email válido.
 
-   A Workfront recomenda atualizar todas as integrações personalizadas para [utilizar OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
+   A Workfront recomenda a atualização de todas as integrações personalizadas para [utilizar OAuth2](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html?lang=pt-BR).
 
-Após configurar o console, consulte este link para ver [como gerenciar usuários](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) na Adobe Admin Console.
+Após configurar o console, consulte este link para entender [como gerenciar usuários](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html?lang=pt-BR) no Adobe Admin Console.
 
 >[!TIP]
 >
->Quer pular para a frente da linha e migrar cedo? Informe-nos [here](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi).
+>Quer se antecipar e migrar logo? Avise-nos [aqui](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi).
 
