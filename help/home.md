@@ -5,10 +5,10 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ Para enviar um tíquete de suporte no [Admin Console](https://adminconsole.adobe
 
 A função de administrador de suporte é uma função não administrativa que tem acesso a informações relacionadas ao suporte. Os administradores de suporte podem visualizar, criar e gerenciar relatórios de problemas.
 
-Para atribuir a função de administrador de suporte, siga as instruções para [editar a função de administrador corporativo](admin-roles.md#add-enterprise-role) na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
+Para adicionar ou convidar um administrador:
+
+1. No Admin Console, escolha **[!UICONTROL Usuários]** > **[!UICONTROL Administradores]**.
+1. Clique em **[!UICONTROL Adicionar administrador]**.
+1. Insira um nome ou endereço de email.
+
+   Você pode pesquisar usuários existentes ou adicionar um novo usuário especificando um endereço de email válido e preenchendo as informações na tela.
+
+   ![Adicionar administrador](assets/admin-console-add-admin.png)
+
+1. Clique em **[!UICONTROL Próximo]**. Uma lista de funções de administrador é exibida.
+
+Para atribuir uma função de administrador de suporte a um usuário (permitir que um usuário entre em contato com o suporte):
+
+1. Selecione o **[!UICONTROL Administrador de suporte]** opção.
+
+   ![Editar direitos administrativos](assets/edit-admin-rights.png)
+
+1. Escolha uma das duas opções a seguir:
+
+   * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se desejar conceder ao usuário suporte acesso a todas as soluções (exceto Marketo).
+   * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para obter suporte do Marketo. Selecione quais instâncias do Marketo devem receber acesso de suporte do usuário.
+
+   ![Editar Marketo de direitos administrativos](assets/edit-admin-rights-advanced.png)
+
+1. Depois de fazer as seleções, clique em **[!UICONTROL Salvar]**.
+
+O usuário recebe um convite por email relacionado aos novos privilégios administrativos de `message@adobe.com`.
+
+Os usuários devem clicar em **Começar** no email para se associarem à organização. Se os novos administradores não usarem o link **Começar** no convite por email, eles não conseguirão acessar o Admin Console.
+
+Como parte do processo de login, os usuários podem ser solicitados a configurar um perfil da Adobe, caso ainda não tenham um. Se os usuários tiverem vários perfis associados ao seu endereço de email, eles deverão escolher **Ingressar na equipe** (se solicitado) e selecione o perfil associado à nova organização.
 
 ### Criar um tíquete de suporte com o Admin Console
 
