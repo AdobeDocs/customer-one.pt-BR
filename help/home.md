@@ -5,9 +5,9 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ Para atribuir uma função de administrador de suporte a um usuário (permitir q
 
 1. Escolha uma das duas opções a seguir:
 
-   * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se desejar conceder ao usuário suporte acesso a todas as soluções (exceto Marketo).
-   * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para obter suporte do Marketo. Selecione quais instâncias do Marketo devem receber acesso de suporte do usuário.
+   * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se desejar conceder ao usuário suporte acesso a todas as soluções (exceto Marketo Engage).
+   * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para suporte a Marketo Engage. Selecione quais instâncias de Marketo Engage dão acesso ao suporte ao usuário.
 
    ![Editar Marketo de direitos administrativos](assets/edit-admin-rights-advanced.png)
 
