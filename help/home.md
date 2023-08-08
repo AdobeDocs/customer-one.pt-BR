@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -40,26 +40,26 @@ Para adicionar ou convidar um administrador:
 
 1. Clique em **[!UICONTROL Próximo]**. Uma lista de funções de administrador é exibida.
 
-Para atribuir uma função de administrador de suporte a um usuário (permitir que um usuário entre em contato com o suporte):
+Para atribuir uma função de Administrador de suporte a um usuário (permitir que um usuário entre em contato com o suporte):
 
-1. Selecione o **[!UICONTROL Administrador de suporte]** opção.
+1. Selecione a opção **[!UICONTROL Administrador de suporte]**.
 
-   ![Editar direitos administrativos](assets/edit-admin-rights.png)
+   ![Editar direitos do administrador](assets/edit-admin-rights.png)
 
-1. Escolha uma das duas opções a seguir:
+1. Escolha entre as duas opções a seguir:
 
    * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se desejar conceder ao usuário suporte acesso a todas as soluções (exceto Marketo Engage).
    * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para suporte a Marketo Engage. Selecione quais instâncias de Marketo Engage dão acesso ao suporte ao usuário.
 
-   ![Editar Marketo de direitos administrativos](assets/edit-admin-rights-advanced.png)
+   ![Editar direitos do administrador do Marketo](assets/edit-admin-rights-advanced.png)
 
-1. Depois de fazer as seleções, clique em **[!UICONTROL Salvar]**.
+1. Depois de escolher as opções desejadas, clique em **[!UICONTROL Salvar]**.
 
 O usuário recebe um convite por email relacionado aos novos privilégios administrativos de `message@adobe.com`.
 
 Os usuários devem clicar em **Começar** no email para se associarem à organização. Se os novos administradores não usarem o link **Começar** no convite por email, eles não conseguirão acessar o Admin Console.
 
-Como parte do processo de login, os usuários podem ser solicitados a configurar um perfil da Adobe, caso ainda não tenham um. Se os usuários tiverem vários perfis associados ao seu endereço de email, eles deverão escolher **Ingressar na equipe** (se solicitado) e selecione o perfil associado à nova organização.
+Como parte do processo de login, os usuários podem ser solicitados a configurar um perfil da Adobe, caso ainda não tenham um. Se os usuários tiverem vários perfis associados ao endereço de email, eles deverão escolher **Associar-se à equipe** (se solicitado) e selecionar o perfil associado à nova organização.
 
 ![Confirmação de direitos de administrador](assets/admin-rights-confirmation.png)
 
