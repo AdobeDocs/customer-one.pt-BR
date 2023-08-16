@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ Para atribuir uma função de Administrador de suporte a um usuário (permitir q
 
 1. Escolha entre as duas opções a seguir:
 
-   * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se desejar conceder ao usuário suporte acesso a todas as soluções (exceto Marketo Engage).
-   * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para suporte a Marketo Engage. Selecione quais instâncias de Marketo Engage dão acesso ao suporte ao usuário.
+   * Opção 1: **[!UICONTROL Administrador de suporte básico]**. Selecione essa opção se quiser fornecer ao usuário acesso de suporte a todas as soluções (exceto ao Marketo Engage).
+   * Opção 2: **[!UICONTROL Administrador de suporte do produto]**: selecione essa opção para fornecer suporte ao Marketo Engage. Selecione as instâncias do Marketo Engage às quais o usuário deve receber acesso de suporte.
 
    ![Editar direitos do administrador do Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ Como parte do processo de login, os usuários podem ser solicitados a configurar
 
 ![Confirmação de direitos de administrador](assets/admin-rights-confirmation.png)
 
-Para obter mais detalhes, siga o [editar atribuição de administrador corporativo](admin-roles.md#add-enterprise-role) instruções na documentação de funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
+Para obter mais detalhes, siga as instruções para [editar a função de administrador corporativo](admin-roles.md#add-enterprise-role) na documentação sobre funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
 
 ### Criar um tíquete de suporte com o Admin Console
 
