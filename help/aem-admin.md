@@ -1,12 +1,11 @@
 ---
 title: AEM - Um nova experiência de suporte está chegando
-seo-title: Adobe Experience Manager — Uma nova experiência de suporte está chegando
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: Adobe Experience Manager — Uma nova experiência de suporte está chegando
-seo-description: Adobe Experience Manager — Uma nova experiência de suporte está chegando
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -34,7 +33,7 @@ Como Administrador do sistema, você tem acesso a [!DNL Adobe Admin Console Supp
 
 >[!NOTE]
 >
->Confirme que você aceita a função (ou informe um ponto de contato alternativo) de Administrador de sistema da sua organização para produtos do Adobe Experience Manager, **preenchendo e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) até 4 de novembro de 2019**.
+>Confirme se você aceita essa função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Experience Manager **preenchendo e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) até 4 de novembro de 2019**.
 >
 >Ao preencher este formulário, você terá a garantia de que as credenciais apropriadas sejam atribuídas ao Administrador do sistema designado de sua organização.
 

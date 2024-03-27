@@ -4,7 +4,7 @@ description: Usando o Adobe Admin Console, as organizações podem definir uma h
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: ht
-source-wordcount: '1640'
+source-wordcount: '1689'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ _Hierarquia de funções administrativas_
 
 Para obter uma lista detalhada de permissões e privilégios para cada função de administrador, consulte [Permissões](#enterprise-admins-permissions-matrix).
 
-## Adicionar um administrador corporativo função {#add-enterprise-role}
+## Adicionar uma função de administrador corporativo {#add-enterprise-role}
 
 Aplica-se a: clientes empresariais da Adobe.
 
@@ -65,7 +65,6 @@ Para adicionar ou convidar um administrador:
 >
 >* As opções dessa tela dependem da sua conta e função de administrador. Você pode conceder os mesmos privilégios que os seus ou privilégios para uma função sob a sua hierarquia.
 >* Como administrador do sistema de uma equipe, você pode atribuir somente uma função: administrador do sistema.
-
 
 1. Selecione uma ou mais funções de administrador.
 1. Para tipos de administradores, como administrador de produtos, administrador de perfis de produtos e administrador de grupos de usuários, selecione os produtos, perfis e grupos específicos, respectivamente.
@@ -176,87 +175,87 @@ A tabela a seguir lista todas as permissões para os diferentes tipos de adminis
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Adicionar domínio (solicitar/reivindicar um domínio) | ✔ |  |
-| Exibir domínios e listas de domínios | ✔ |  |
-| Gerenciar chaves de criptografia de domínios | ✔ |  |
-| Gerenciar a política padrão de senhas da organização | ✔ |  |
-| Exibir a política padrão de senhas da organização | ✔ |  |
+| Adicionar domínio (solicitar/reivindicar um domínio) | ✔ | |
+| Exibir domínios e listas de domínios | ✔ | |
+| Gerenciar chaves de criptografia de domínios | ✔ | |
+| Gerenciar a política padrão de senhas da organização | ✔ | |
+| Exibir a política padrão de senhas da organização | ✔ | |
 
 ### Gerenciamento de usuários
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Adicionar usuário à organização | ✔ |  |
-| Remover usuário da organização | ✔ |  |
-| Exibir detalhes e listas de usuários | ✔ |  |
-| Editar perfis de usuários | ✔ |  |
-| Adicionar perfis de produtos a usuários ou grupos | ✔ |  |
-| Remover perfis de produtos a usuários ou grupos | ✔ |  |
-| Adicionar perfis de produtos a vários usuários | ✔ |  |
-| Exibir perfis de produtos para um usuário | ✔ |  |
-| Exibir a lista de usuários do produto | ✔ |  |
-| Adicionar usuários em massa à organização | ✔ |  |
+| Adicionar usuário à organização | ✔ | |
+| Remover usuário da organização | ✔ | |
+| Exibir detalhes e listas de usuários | ✔ | |
+| Editar perfis de usuários | ✔ | |
+| Adicionar perfis de produtos a usuários ou grupos | ✔ | |
+| Remover perfis de produtos a usuários ou grupos | ✔ | |
+| Adicionar perfis de produtos a vários usuários | ✔ | |
+| Exibir perfis de produtos para um usuário | ✔ | |
+| Exibir a lista de usuários do produto | ✔ | |
+| Adicionar usuários em massa à organização | ✔ | |
 
 ### Gerenciamento de administradores
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Conceder permissões de administrador da organização a um usuário | ✔ |  |
-| Revogar permissões de administrador da organização de um usuário | ✔ |  |
-| Conceder permissões de administrador de licenças de produtos a um usuário | ✔ |  |
-| Revogar permissões de administrador de licenças de produtos de um usuário | ✔ |  |
-| Conceder permissões de administrador de implantação a um usuário | ✔ |  |
-| Revogar permissões de administrador de implantação de um usuário | ✔ |  |
-| Conceder permissões de administrador de grupos de usuários a um usuário | ✔ |  |
-| Revogar permissões de administrador de grupos de usuários a um usuário | ✔ |  |
-| Conceder permissões de administrador de proprietários de produtos a um usuário | ✔ |  |
-| Revogar permissões de administrador de proprietários de produtos de um usuário | ✔ |  |
+| Conceder permissões de administrador da organização a um usuário | ✔ | |
+| Revogar permissões de administrador da organização de um usuário | ✔ | |
+| Conceder permissões de administrador de licenças de produtos a um usuário | ✔ | |
+| Revogar permissões de administrador de licenças de produtos de um usuário | ✔ | |
+| Conceder permissões de administrador de implantação a um usuário | ✔ | |
+| Revogar permissões de administrador de implantação de um usuário | ✔ | |
+| Conceder permissões de administrador de grupos de usuários a um usuário | ✔ | |
+| Revogar permissões de administrador de grupos de usuários a um usuário | ✔ | |
+| Conceder permissões de administrador de proprietários de produtos a um usuário | ✔ | |
+| Revogar permissões de administrador de proprietários de produtos de um usuário | ✔ | |
 
 ### Gerenciamento de configurações de licenças de produtos
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Conceder direitos do produto à organização |  |  |
-| Remover direitos do produto da organização |  |  |
-| Exibir o número total de licenças que a organização possui | ✔ |  |
-| Exibir produtos e famílias de produtos disponíveis | ✔ |  |
-| Editar descrições/dados de licenças de produtos | ✔ |  |
-| Provisionar licenças de produtos para um usuário | ✔ |  |
-| Desprovisionar licenças de produtos de um usuário | ✔ |  |
-| Adicionar nova configuração de licença de produto | ✔ |  |
-| Editar configuração do serviço de licenças de produtos | ✔ |  |
-| Excluir configuração do serviço de licenças de produtos | ✔ |  |
-| Remover o acesso ao produto de um usuário (eliminar de todas as configurações) | ✔ |  |
+| Conceder direitos do produto à organização | | |
+| Remover direitos do produto da organização | | |
+| Exibir o número total de licenças que a organização possui | ✔ | |
+| Exibir produtos e famílias de produtos disponíveis | ✔ | |
+| Editar descrições/dados de licenças de produtos | ✔ | |
+| Provisionar licenças de produtos para um usuário | ✔ | |
+| Desprovisionar licenças de produtos de um usuário | ✔ | |
+| Adicionar nova configuração de licença de produto | ✔ | |
+| Editar configuração do serviço de licenças de produtos | ✔ | |
+| Excluir configuração do serviço de licenças de produtos | ✔ | |
+| Remover o acesso ao produto de um usuário (eliminar de todas as configurações) | ✔ | |
 
 ### Gerenciamento de armazenamento
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Exibir pastas de usuários ativos e inativos | ✔ |  |
-| Excluir pastas de usuários inativos e transferir o conteúdo | ✔ |  |
+| Exibir pastas de usuários ativos e inativos | ✔ | |
+| Excluir pastas de usuários inativos e transferir o conteúdo | ✔ | |
 
 ### Implantação
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Exibir/usar a guia Pacotes | ✔ |  |
+| Exibir/usar a guia Pacotes | ✔ | |
 
 ### Suporte
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Exibir a guia Suporte | ✔ |  |
+| Exibir a guia Suporte | ✔ | |
 | Gerenciar casos de suporte | ✔ | ✔ |
 
 ### Gerenciamento de grupos de usuários
 
 | Permissão | Administrador do sistema | Administrador de suporte |
 |--- |--- |--- |
-| Criar grupos de usuários | ✔ |  |
-| Remover grupos de usuários | ✔ |  |
-| Adicionar usuários a um grupo de usuários | ✔ |  |
-| Remover usuários de um grupo de usuários | ✔ |  |
-| Atribuir grupos de usuários a licenças de produtos | ✔ |  |
-| Remover grupos de usuários de licenças de produtos | ✔ |  |
+| Criar grupos de usuários | ✔ | |
+| Remover grupos de usuários | ✔ | |
+| Adicionar usuários a um grupo de usuários | ✔ | |
+| Remover usuários de um grupo de usuários | ✔ | |
+| Atribuir grupos de usuários a licenças de produtos | ✔ | |
+| Remover grupos de usuários de licenças de produtos | ✔ | |
 | Exibir membro de um grupo de usuários | ✔ | ✔ |
 | Exibir listas de grupos de usuários | ✔ | ✔ |

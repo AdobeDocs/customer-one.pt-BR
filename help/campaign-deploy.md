@@ -1,12 +1,11 @@
 ---
-title: 'Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign] '
-description: 'Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign] '
-seo-title: 'Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign] '
-seo-description: 'Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign] '
-translation-type: ht
+title: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign]
+description: Sua nova experiência de Suporte ao cliente da Adobe está chegando — contato para implantação do  [!DNL Campaign]
+seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '340'
+source-wordcount: '297'
 ht-degree: 100%
 
 ---
@@ -32,7 +31,7 @@ Como Administrador do sistema, você tem acesso a [!DNL Adobe Admin Console Supp
 
 >[!NOTE]
 >
->Confirme que você aceita a função (ou informe um ponto de contato alternativo) de Administrador do sistema de sua organização para os produtos do Adobe Campaign, **preenchendo e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) até 4 de novembro de 2019**.
+>Confirme se você aceita essa função (ou fornece um ponto de contato alternativo) como Administrador de sistema da sua organização para produtos do Adobe Campaign **completando e enviando o [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) até 4 de novembro de 2019**.
 >
 >Ao preencher este formulário, você terá a garantia de que as credenciais apropriadas sejam atribuídas ao Administrador de sistema designado de sua organização e obterá mais detalhes para ajudar sua organização a se preparar para as próximas alterações.
 

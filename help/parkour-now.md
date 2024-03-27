@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: ht
-source-wordcount: '453'
+source-wordcount: '450'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Entre fevereiro e março de 2022, a Adobe fará a configuração dos novos admin
 Os administradores do sistema de suporte e os administradores do suporte ao cliente verão os e-mails gerados pelo sistema à medida que os usuários de suporte forem criados no Admin Console. As funções de usuário poderão:
 
 * Aproveitar as ferramentas de gerenciamento que facilitam o trabalho com o Suporte ao cliente da Adobe por meio de casos de suporte
-* Iniciar chat com o Suporte ao cliente da Adobe para Adobe Analytics
+* Iniciar convenientemente conversas por chat com o Suporte ao cliente da Adobe para o Adobe Analytics
 * Ter maior visibilidade do histórico de serviços
 * Navegar pelos tópicos e fóruns populares da Ajuda.
 

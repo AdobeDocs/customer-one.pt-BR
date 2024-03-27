@@ -2,9 +2,10 @@
 keywords: Suporte da Workfront; enviar tíquete de suporte; suporte ao cliente
 title: Visão geral do suporte do Adobe Workfront
 description: O Adobe Workfront está se integrando à plataforma Adobe Admin Console.
-source-git-commit: be82f76b3b7ce7ba38dea1b8e9816fedccd30e8f
+exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
+source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
 workflow-type: ht
-source-wordcount: '238'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
