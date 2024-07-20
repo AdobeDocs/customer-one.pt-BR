@@ -3,7 +3,7 @@ title: Especifique um número de telefone de suporte de sua preferência.
 description: Atualização dos números de telefone do Suporte da Adobe. Especifique seu número de telefone de suporte de sua preferência.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
