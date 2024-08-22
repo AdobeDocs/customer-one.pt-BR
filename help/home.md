@@ -5,26 +5,30 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
+source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 100%
+source-wordcount: '860'
+ht-degree: 56%
 
 ---
 
 # Experiência de Suporte ao cliente da Adobe
 
-## Tíquetes de suporte do Admin Console
+## Tíquetes de suporte do Experience League
 
-Agora, os tíquetes de suporte podem ser enviados pelo [Admin Console](https://adminconsole.adobe.com/). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção de [envio de um tíquete de suporte](#submit-ticket).
+Os tíquetes de suporte agora são enviados via [Experience League](https://experienceleague.adobe.com/home#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção de [envio de um tíquete de suporte](#submit-ticket).
 
-Estamos trabalhando para melhorar a interação com o Suporte ao cliente do Adobe. Nosso objetivo é simplificar a experiência de suporte, mudando para um ponto de acesso centralizado, usando o Adobe Admin Console. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços em um mesmo sistema para os produtos e poderá solicitar ajuda por telefone, chat ou site, tudo em um só portal.
+Estamos trabalhando para melhorar a interação com o Suporte ao cliente do Adobe. Nossa visão é otimizar a experiência de suporte migrando para um único ponto de entrada, usando o Experience League. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços em um mesmo sistema para os produtos e poderá solicitar ajuda por telefone, chat ou site, tudo em um só portal.
 
-## Como enviar um tíquete de suporte do Admin Console {#submit-ticket}
+Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do Usuário de Suporte do Experience League para Adobe Commerce.
 
-Para enviar um tíquete de suporte no [Admin Console](https://adminconsole.adobe.com/), é necessário que um Administrador do sistema atribua a função de administrador de suporte a você. Somente um Administrador de sistema da sua organização pode atribuir essa função. Produto, Perfil de produto e outras funções administrativas não podem atribuir a função de administrador de suporte e não conseguem visualizar a opção **[!UICONTROL Criar caso]** usada para enviar um tíquete de suporte. Para obter mais informações, visite a documentação sobre [atendimento ao cliente de empresas e equipes](customer-care.md).
+## Funções de suporte qualificadas necessárias para o envio de caso {#submit-ticket}
 
-### Atribuir a função de administrador de suporte
+Para enviar um tíquete de suporte no [Experience League](https://experienceleague.adobe.com/home#support), é necessário ter a função de administrador de suporte atribuída por um Administrador do sistema. Somente um Administrador de sistema da sua organização pode atribuir essa função. Produto, Perfil de produto e outras funções administrativas não podem atribuir a função de administrador de suporte e não conseguem visualizar a opção **[!UICONTROL Criar caso]** usada para enviar um tíquete de suporte. Para saber mais sobre os diferentes tipos de funções de administrador e seus direitos, consulte [Funções de administrador](admin-roles.md).
+
+Se você estiver no Commerce, o processo para compartilhar o acesso para trabalhar com casos de suporte será diferente. Para saber mais, consulte [Acesso compartilhado: conceder privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) no Guia do Usuário de Suporte Experience League para Adobe Commerce.
+
+### Adicionar funções de direitos de suporte a uma organização
 
 A função de administrador de suporte é uma função não administrativa que tem acesso a informações relacionadas ao suporte. Os administradores de suporte podem visualizar, criar e gerenciar relatórios de problemas.
 
@@ -65,31 +69,41 @@ Como parte do processo de login, os usuários podem ser solicitados a configurar
 
 Para obter mais detalhes, siga as instruções para [editar a função de administrador corporativo](admin-roles.md#add-enterprise-role) na documentação sobre funções administrativas. Tenha em mente que essa função só poderá ser atribuída por um administrador de sistema da sua organização. Para obter mais informações sobre a hierarquia administrativa, visite a documentação sobre [funções administrativas](admin-roles.md).
 
-### Criar um tíquete de suporte com o Admin Console
+### Criar um tíquete de suporte com o Experience League
 
-Para criar um tíquete usando o [Admin Console](https://adminconsole.adobe.com/), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior. A página [!UICONTROL Resumo do suporte] será exibida. Em seguida, selecione a opção **[!UICONTROL Criar caso]**.
+O processo de envio de casos de suporte agora está diretamente integrado à plataforma de suporte Experience League. Este é um portal de autoatendimento que foi reprojetado recentemente para oferecer mais personalização e facilidade de uso para clientes autorizados.
+
+1. Para criar um tíquete usando o [Experience League](https://experienceleague.adobe.com/home#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
+   ![Guia de suporte da Experience League](./assets/experience-league-support-tab.png)
+1. Na página inicial de suporte, você pode navegar facilmente até os casos de suporte abertos, registrar um novo caso, exibir os principais artigos de suporte ou acessar fontes de aprendizado adicionais.
+   ![Recursos de suporte da Experience League](./assets/experience-league-support-resources.png)
+1. Para enviar um caso, selecione **[!UICONTROL Abrir um tíquete de suporte]**. Selecione também a opção **[!UICONTROL Abrir tíquete]** no menu da barra lateral. Você será direcionado para a página de criação de ocorrências, na qual poderá inserir o nome do produto (Audience Manager, Campanha, Target, etc.), o título da ocorrência e a descrição da ocorrência. Para acelerar o processo de solução de problemas, seja o mais descritivo possível ao descrever o problema que está enfrentando.
+   ![Tíquete aberto da Experience League](./assets/experience-league-open-ticket.png)
+1. No final do formulário, preencha os campos a seguir. Ao selecionar qualquer solução, você será perguntado o seguinte e algumas soluções terão campos adicionais:
+
+   * Prioridade de Ocorrência (Baixa, Medium, Alta, Crítica)
+   * Impacto no negócio
+   * Fuso horário do cliente (Américas, EMEA, APAC)
+
+![Prioridade de tíquete da Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Se você não conseguir ver a opção **[!UICONTROL Criar caso]** ou a guia **[!UICONTROL Suporte]**, entre em contato com um Administrador do sistema para que ele atribua a função de administrador de suporte a você.
 
-![Guia Suporte ao Admin Console](./assets/Support.png)
 
-Uma caixa de diálogo será exibida para que você selecione um tipo de problema. Selecione o tipo que melhor descreva seu problema ou pergunta e selecione **[!UICONTROL Criar caso]** na parte inferior direita.
 
-![Selecionar problema](./assets/select-case-type.png)
 
-A caixa de diálogo **[!UICONTROL Criar caso]** será exibida. Você deve fornecer algumas informações, como produto, prioridade e descrição, e anexar quaisquer capturas de tela que possam ajudar a descrever o problema. Selecione **[!UICONTROL Próximo]** para continuar.
 
-![criar caso](./assets/create_case.png)
+
+
 
 >[!NOTE]
 >
-> Se o problema resultar em paralisações ou interrupções extremamente graves em um sistema de produção, será fornecido um número de telefone para assistência imediata.
+> Se o problema resultar em paralisações ou interrupções graves em um sistema de produção, um número de telefone será fornecido para assistência imediata.
 
-A próxima página permite que você preencha as informações de contato e forneça o melhor horário para que o Suporte ao cliente do Adobe entre em contato com você. Depois de concluir, selecione **[!UICONTROL Enviar]** na parte inferior direita, e seu tíquete será enviado ao Suporte ao cliente da Adobe.
 
-![Enviar tíquete](./assets/submit_case.png)
+
 
 <!--
 

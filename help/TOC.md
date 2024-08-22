@@ -6,20 +6,19 @@ feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] Ajuda"
-source-git-commit: c4264713b8ce26b78ac04c6ad2cd5f33512c6702
+source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 100%
+source-wordcount: '23'
+ht-degree: 82%
 
 ---
 
 
 # [!DNL Customer One for Enterprise] {#using}
 
-+ [Introdução](home.md)
++ [Portal de suporte do Experience League](home.md)
 + [Atualização do número de telefone de suporte](phone-numbers.md)
 + [Funções administrativas](admin-roles.md)
-+ [Entre em contato com o Atendimento ao cliente da Adobe](customer-care.md)
 + Documentos de referência {#ref-docs}
    + [Anúncio anterior](intro-customer-support.md)
    + [Anúncio do Parkour Now](parkour-now.md)
@@ -27,4 +26,5 @@ ht-degree: 100%
    + [Visão geral](overview.md)
    + [Destino](landing.md)
    + [Perguntas frequentes](faq.md)
+
 
