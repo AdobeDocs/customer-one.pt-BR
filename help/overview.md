@@ -25,7 +25,7 @@ Para obter uma análise detalhada do Adobe Identity e Admin Console, consulte es
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=pt-BR
 -->
 
 Além disso, as perguntas frequentes podem ser consultadas [aqui](faq.md).
