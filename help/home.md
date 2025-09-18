@@ -6,7 +6,7 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '860'
 ht-degree: 100%
 
@@ -16,17 +16,17 @@ ht-degree: 100%
 
 ## Tíquetes de suporte da Experience League
 
-Os tíquetes de suporte agora são enviados pela [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção de [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
+Os tíquetes de suporte agora são enviados pela [Experience League](https://experienceleague.adobe.com/home#support). Para obter instruções sobre como enviar um tíquete de suporte, consulte a seção de [envio de um tíquete de suporte](#create-a-support-ticket-with-experience-league).
 
 Estamos trabalhando para melhorar a interação com o Suporte ao cliente do Adobe. Nosso objetivo é simplificar a experiência de suporte, mudando para um ponto de acesso centralizado, usando a Experience League. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços em um mesmo sistema para os produtos e poderá solicitar ajuda por telefone, chat ou site, tudo em um só portal.
 
-Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do usuário de suporte da Experience League para Adobe Commerce.
+Se você for usuário do Adobe Commerce, consulte [Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) no Guia do usuário de suporte da Experience League para Adobe Commerce.
 
 ## Funções de suporte qualificadas necessárias para o envio de caso {#submit-ticket}
 
-Para enviar um tíquete de suporte na [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support), é necessário que um Administrador do sistema atribua a função de administrador de suporte a você. Somente um Administrador de sistema da sua organização pode atribuir essa função. Produto, Perfil de produto e outras funções administrativas não podem atribuir a função de administrador de suporte e não conseguem visualizar a opção **[!UICONTROL Criar caso]** usada para enviar um tíquete de suporte. Para saber mais sobre os diferentes tipos de funções de administrador e seus direitos, consulte [Funções de administrador](admin-roles.md).
+Para enviar um tíquete de suporte na [Experience League](https://experienceleague.adobe.com/home#support), é necessário que um Administrador do sistema atribua a função de administrador de suporte a você. Somente um Administrador de sistema da sua organização pode atribuir essa função. Produto, Perfil de produto e outras funções administrativas não podem atribuir a função de administrador de suporte e não conseguem visualizar a opção **[!UICONTROL Criar caso]** usada para enviar um tíquete de suporte. Para saber mais sobre os diferentes tipos de funções de administrador e seus direitos, consulte [Funções de administrador](admin-roles.md).
 
-Se você estiver no Commerce, o processo para compartilhar o acesso para trabalhar com casos de suporte será diferente. Para saber mais, consulte [Acesso compartilhado: conceder privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) no Guia do usuário de suporte da Experience League para Adobe Commerce.
+Se você estiver no Commerce, o processo para compartilhar o acesso para trabalhar com casos de suporte será diferente. Para saber mais, consulte [Acesso compartilhado: conceder privilégios para que outros usuários acessem sua conta](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) no Guia do usuário de suporte da Experience League para Adobe Commerce.
 
 ### Adicionar funções de direitos de suporte a uma organização
 
@@ -73,7 +73,7 @@ Para obter mais detalhes, siga as instruções para [editar a função de admini
 
 O processo de envio de casos de suporte agora está diretamente integrado à plataforma de suporte da Experience League. Este é um portal de autoatendimento que foi reprojetado recentemente para oferecer mais personalização e facilidade de uso para clientes autorizados.
 
-1. Para criar um tíquete usando a [Experience League](https://experienceleague.adobe.com/home?lang=pt-BR#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
+1. Para criar um tíquete usando a [Experience League](https://experienceleague.adobe.com/home#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
    ![Guia de suporte da Experience League](./assets/experience-league-support-tab.png)
 1. Na página inicial de suporte, você pode navegar facilmente até os casos de suporte abertos, registrar um novo caso, exibir os principais artigos de suporte ou acessar fontes de aprendizado adicionais.
    ![Recursos de suporte da Experience League](./assets/experience-league-support-resources.png)
