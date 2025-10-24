@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Para obter mais detalhes, siga as instruções para [editar a função de admini
 
 >[!NOTE]
 >
-> Antes de enviar um tíquete de suporte, verifique os problemas de desempenho, disponibilidade e solução do sistema da Adobe no site [status do Adobe](https://status.adobe.com).
+> Antes de enviar um tíquete de suporte, considere conferir as soluções para problemas de desempenho e disponibilidade do sistema da Adobe no site de [status da Adobe](https://status.adobe.com/pt-br).
 
 O processo de envio de casos de suporte agora está diretamente integrado à plataforma de suporte da Experience League. Este é um portal de autoatendimento que foi reprojetado recentemente para oferecer mais personalização e facilidade de uso para clientes autorizados.
 
@@ -84,23 +84,23 @@ O processo de envio de casos de suporte agora está diretamente integrado à pla
 1. Para enviar um caso, selecione **[!UICONTROL Abrir um tíquete de suporte]**. Selecione também a opção **[!UICONTROL Abrir tíquete]** no menu da barra lateral.
 
 
-### Preencha o tíquete de suporte
+### Preencher o tíquete de suporte
 
-1. Depois de selecionar **[!UICONTROL Abrir um tíquete de suporte]**, você será direcionado para a página de criação de ocorrências, na qual poderá inserir o nome do seu produto (Audience Manager, Campanha, Target, etc.), **[!UICONTROL Título da ocorrência]** e **[!UICONTROL Descrição da ocorrência]**.
+1. Depois de selecionar **[!UICONTROL Abrir um tíquete de suporte]**, voc^será redirecionado para a página de criação de casos, na qual você poderá inserir o nome do produto (Audience Manager, Campaign, Target etc.), o **[!UICONTROL Título do caso]** e a **[!UICONTROL Descrição do caso]**.
 
    ![Tíquete aberto da Experience League](./assets/experience-league-open-ticket.png)
 
-   Para acelerar o processo de solução de problemas, adicione as seguintes informações no campo **[!UICONTROL Descrição do caso]**:
+   Para acelerar o processo de resolução de problemas, adicione as seguintes informações no campo **[!UICONTROL Descrição do caso]**:
 
-   * Limpar a descrição do problema
-   * Etapas a serem reproduzidas
-   * Demonstrativo de impacto comercial
-   * Isso é uma nova implementação / recurso / desenvolvimento?
-   * Quando foi a hora em que o processo funcionou?
-   * Etapas de solução de problemas executadas
+   * Limpar declaração do problema
+   * Etapas para reproduzir
+   * Declaração de impacto comercial
+   * Trata-se de uma nova implementação/recurso/desenvolvimento?
+   * Em que hora o processo funcionou?
+   * Etapas de resolução de problemas executadas
    * Dados de log relevantes
    * Número da versão
-   * Informações da build (se relevante)
+   * Informações da compilação (se relevante)
    * Identificadores críticos
 
 
