@@ -2,10 +2,15 @@
 title: Funções administrativas
 description: Usando o Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permite o gerenciamento otimizado do acesso e da utilização dos produtos da Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
+TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
-source-wordcount: '1689'
-ht-degree: 100%
+source-wordcount: 1647
+ht-degree: 97%
 
 ---
 
@@ -35,7 +40,7 @@ _Hierarquia de funções administrativas_
 
 | Função | Descrição |
 |--- |--- |
-| **Administrador do sistema** | Superusuário da organização; pode executar todas as tarefas administrativas no Admin Console.<br>Além disso, tem permissões para delegar as seguintes funcionalidades administrativas a outros usuários: administrador de produtos, administrador de perfis de produtos, administrador de grupos de usuários, administrador de implantação e administrador de suporte. |
+| **Administrador do sistema** | Superusuário da organização; autorizado a executar todas as tarefas administrativas no Admin Console.<br>Além disso, tem permissões para delegar a seguinte funcionalidade administrativa a outros usuários: administrador de produto, administrador de Perfil de produto, administrador de Grupo de usuários, administrador de implantação e administrador de suporte. |
 | **Administrador de produtos** | Administra os produtos atribuídos a esse administrador e todas as funções administrativas associadas, que incluem:<ul><li>Criar perfis de produtos</li><li>Adicionar usuários e grupos de usuários à organização, mas não removê-los</li><li>Adicionar ou remover usuários e grupos de usuários dos perfis de produtos</li><li>Adicionar ou remover administradores de perfis de produtos</li><li>Adicionar ou remover outros administradores de produtos</li><li>Adicionar ou remover administradores de grupos</li></ul> |
 | **Administrador de perfis de produtos** | Administra as descrições dos perfis de produtos atribuídas a ele e todas as funções administrativas associadas, que incluem:<ul><li>Adicionar usuários e grupos de usuários à organização, mas não removê-los</li><li>Adicionar ou remover usuários e grupos de usuários dos perfis de produtos</li><li>Atribuir ou revogar permissões de produtos a usuários e grupos de usuários a partir de perfis de produtos</li><li>Gerenciar funções de usuários e grupos de usuários para perfis de produtos |
 | **Administrador de grupos de usuários** | Administra as descrições dos grupos de usuários atribuídas a ele e todas as funções administrativas associadas, que incluem:<ul><li>Adicionar ou remover usuários de grupos</li><li>Adicionar ou remover administradores de grupos de usuários |

@@ -3,9 +3,11 @@ title: Apresentação da nova experiência de Suporte ao cliente da Adobe (anún
 description: Primeira comunicação com o cliente sobre a nova experiência de suporte
 hide: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
+TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: 391
 ht-degree: 78%
 
 ---
