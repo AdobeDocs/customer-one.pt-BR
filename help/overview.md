@@ -3,9 +3,18 @@ keywords: Suporte da Workfront; enviar tíquete de suporte; suporte ao cliente
 title: Visão geral do suporte do Adobe Workfront
 description: O Adobe Workfront está se integrando à plataforma Adobe Admin Console.
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '221'
+TQID: https://experienceleague.adobe.com/X3yHLNwGTtoBwULWr6ZaCYkFiOIPXFN4kvaH9idDKg0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 247
 ht-degree: 100%
 
 ---
@@ -21,7 +30,7 @@ Nos próximos meses, os clientes serão contatados para coordenar uma migração
 * Utilizar várias configurações de SSO para usuários do Workfront.
 * Gerenciar o direito ao Workfront da mesma forma que os relativos a outros produtos da Adobe.
 
-Para obter uma análise detalhada do Adobe Identity e Admin Console, consulte esta [página de suporte](https://helpx.adobe.com/br/enterprise/admin-guide.html). Há também uma comparação entre o console Workfront atual e o novo console da Adobe [aqui](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&amp;_LANG=enus).
+Para obter uma análise detalhada do Adobe Identity e Admin Console, consulte esta [página de suporte](https://helpx.adobe.com/br/enterprise/admin-guide.html). Há também uma comparação entre o console Workfront atual e o novo console da Adobe [aqui](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus).
 
 <!--
 New URL for July 27:
