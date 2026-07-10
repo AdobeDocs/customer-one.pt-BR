@@ -19,7 +19,7 @@ ht-degree: 60%
 + [Portal de suporte da Experience League](home.md)
 + [Atualização do número de telefone de suporte](phone-numbers.md)
 + [Funções administrativas](admin-roles.md)
-+ Documentos de referência de {hide-from-toc} {#ref-docs}
++ {hide-from-toc}Documentos de referência de  {#ref-docs}
    + {hide-from-toc}[Notificação prévia](intro-customer-support.md)
    + {hide-from-toc}[Notificação do Parkour Now](parkour-now.md)
 + Documentos do Workfront {#workfront}
