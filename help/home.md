@@ -5,9 +5,9 @@ description: Nova experiência de Suporte ao cliente da Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: ht
-source-wordcount: '942'
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+workflow-type: tm+mt
+source-wordcount: '1006'
 ht-degree: 100%
 
 ---
@@ -78,9 +78,13 @@ Para obter mais detalhes, siga as instruções para [editar a função de admini
 O processo de envio de casos de suporte agora está diretamente integrado à plataforma de suporte da Experience League. Este é um portal de autoatendimento que foi reprojetado recentemente para oferecer mais personalização e facilidade de uso para clientes autorizados.
 
 1. Para criar um tíquete usando a [Experience League](https://experienceleague.adobe.com/home?lang=pt-br#support), selecione a guia **[!UICONTROL Suporte]** localizada na navegação superior.
+
    ![Guia de suporte da Experience League](./assets/experience-league-support-tab.png)
+
 1. Na página inicial de suporte, você pode navegar facilmente até os casos de suporte abertos, registrar um novo caso, exibir os principais artigos de suporte ou acessar fontes de aprendizado adicionais.
+
    ![Recursos de suporte da Experience League](./assets/experience-league-support-resources.png)
+
 1. Para enviar um caso, selecione **[!UICONTROL Abrir um tíquete de suporte]**. Selecione também a opção **[!UICONTROL Abrir tíquete]** no menu da barra lateral.
 
 
@@ -112,16 +116,11 @@ O processo de envio de casos de suporte agora está diretamente integrado à pla
 
    Para mais detalhes sobre como a prioridade de casos e o impacto nos negócios afetam os tempos de resposta do suporte, consulte [Metas de tempo de resposta inicial do suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) na documentação de recursos de planos de sucesso.
 
-![Prioridade do tíquete da Experience League](./assets/experience-league-ticket-priority.png)
+   ![Prioridade do tíquete da Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Se você não conseguir ver a opção **[!UICONTROL Criar caso]** ou a guia **[!UICONTROL Suporte]**, entre em contato com um Administrador do sistema para que ele atribua a função de administrador de suporte a você.
-
-
-
-
-
 
 
 

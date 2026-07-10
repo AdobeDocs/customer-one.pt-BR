@@ -3,18 +3,11 @@ title: Funções administrativas
 description: Usando o Adobe Admin Console, as organizações podem definir uma hierarquia administrativa flexível que permite o gerenciamento otimizado do acesso e da utilização dos produtos da Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
-  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -39,7 +32,7 @@ A hierarquia administrativa pode ser usada para atender aos requisitos exclusivo
 
 >[!NOTE]
 >
->A hierarquia administrativa não se aplica a clientes de equipes. Os clientes de equipes têm uma só função de **Administrador do sistema**. O proprietário do contrato (_anteriormente referido como **Administrador principal**&#x200B;_) é o administrador do sistema que tem acesso aos detalhes do contrato e ao histórico de cobranças. Se você for o proprietário do contrato atual, poderá nomear um administrador do sistema existente (_ anteriormente referido como **administrador secundário**&#x200B;_) como proprietário do contrato.
+>A hierarquia administrativa não se aplica a clientes de equipes. Os clientes de equipes têm uma só função de **Administrador do sistema**. O proprietário do contrato (_anteriormente referido como **Administrador principal**_) é o administrador do sistema que tem acesso aos detalhes do contrato e ao histórico de cobranças. Se você for o proprietário do contrato atual, poderá nomear um administrador do sistema existente (_ anteriormente referido como **administrador secundário**_) como proprietário do contrato.
 
 ![imagem de administrador](assets/storage_admin.png)
 
@@ -121,8 +114,7 @@ Para adicionar ou convidar um administrador do sistema:
 
 ![imagem de administrador de equipes](assets/teams-admin.png)
 
-Como todos os usuários em uma organização de equipes são usuários com IDs de empresa, eles recebem um convite por email relacionado aos novos privilégios administrativos de `message@adobe.com`.
-Os usuários devem clicar em Começar no email para se associarem à organização.
+Como todos os usuários em uma organização de equipes são usuários com IDs de empresa, eles recebem um convite por email relacionado aos novos privilégios administrativos de `message@adobe.com`.Os usuários devem clicar em Começar no email para se associarem à organização.
 
 Como parte do processo de login, os usuários podem ser solicitados a configurar um perfil da Adobe, caso ainda não tenham um. Se os usuários tiverem vários perfis associados ao endereço de email, eles deverão escolher &quot;Associar-se à equipe&quot; (se solicitado) e selecionar o perfil associado à nova organização.
 
@@ -271,3 +263,4 @@ A tabela a seguir lista todas as permissões para os diferentes tipos de adminis
 | Remover grupos de usuários de licenças de produtos | ✔ | |
 | Exibir membro de um grupo de usuários | ✔ | ✔ |
 | Exibir listas de grupos de usuários | ✔ | ✔ |
+
