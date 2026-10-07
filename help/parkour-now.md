@@ -6,13 +6,12 @@ exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 459
+source-wordcount: '459'
 ht-degree: 100%
-
 ---
-
 # Nova experiência de Suporte ao cliente da Adobe
 
 Nossos clientes são nossa prioridade. Por isso, estamos trabalhando para tornar o acesso ao Suporte ao cliente da Adobe ainda mais fácil. A Adobe está aprimorando a maneira como você recebe suporte ao cliente para Adobe Analytics, Target e Audience Manager, simplificando a experiência em um portal de suporte básico único, o Adobe Admin Console. Essa transição permitirá maior visibilidade do histórico de serviços e a solicitação de suporte por telefone, web e chat, em uma plataforma comum. Essas alterações ocorrerão em abril de 2022.

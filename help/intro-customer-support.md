@@ -6,20 +6,20 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 78%
-
 ---
-
 # Nova experiência de Suporte ao cliente da Adobe
 
 Nossos clientes são nossa prioridade. Por isso, estamos trabalhando para tornar o acesso ao Suporte ao cliente da Adobe ainda mais fácil, começando por dois produtos: Adobe Experience Manager e Adobe Campaign. Nossa visão é simplificar a experiência de suporte migrando para um portal de entrada moderno, o Portal de suporte do Adobe Admin Console. Planejamos implementar essas alterações em maio de 2020. Assim que o novo Suporte ao cliente da Adobe estiver funcionando, sua organização terá uma maior visibilidade do histórico de serviços e poderá solicitar ajuda por telefone, chat ou pelo site, tudo em um só portal.
 
 ## Mais informações
 
-Em fevereiro e março, a Adobe fará a configuração dos novos administradores do sistema de suporte e dos novos usuários de suporte no portal. Se nossos registros indicarem que você atua atualmente como Administrador de sistema de suporte no Admin Console da Adobe, ou se seu nome foi listado no contrato de compra como contato do cliente da Adobe para implantar o Adobe Campaign e/ou o Adobe Experience Manager na organização, você será configurado como Administrador de sistema de suporte na organização.Os administradores do sistema de suporte desempenharão o papel de superusuários no Admin Console e verão os e-mails gerados pelo sistema sempre que um novo usuário de suporte for criado. Além disso, eles poderão:
+Em fevereiro e março, a Adobe fará a configuração dos novos administradores do sistema de suporte e dos novos usuários de suporte no portal. Se nossos registros indicarem que você atua atualmente como Administrador de sistema de suporte no Admin Console da Adobe, ou se seu nome foi listado no contrato de compra como contato do cliente da Adobe para implantar o Adobe Campaign e/ou o Adobe Experience Manager na organização, você será configurado como Administrador de sistema de suporte na organização.
+Os administradores do sistema de suporte desempenharão o papel de superusuários no Admin Console e verão os e-mails gerados pelo sistema sempre que um novo usuário de suporte for criado. Além disso, eles poderão:
 
 * Criar/remover usuários de suporte no portal e controlar funções de acesso
 * Aproveitar as ferramentas de gerenciamento que facilitam o trabalho com o Suporte ao cliente da Adobe por meio de casos de suporte
