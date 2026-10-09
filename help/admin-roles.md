@@ -44,7 +44,7 @@ A hierarquia administrativa pode ser usada para atender aos requisitos exclusivo
 
 >[!NOTE]
 >
->A hierarquia administrativa não se aplica a clientes de equipes. Os clientes de equipes têm uma só função de **Administrador do sistema**. O proprietário do contrato (_anteriormente referido como **Administrador principal**_) é o administrador do sistema que tem acesso aos detalhes do contrato e ao histórico de cobranças. Se você for o proprietário do contrato atual, poderá nomear um administrador do sistema existente (_ anteriormente referido como **administrador secundário**_) como proprietário do contrato.
+>A hierarquia administrativa não se aplica a clientes de equipes. Os clientes de equipes têm uma só função de **Administrador do sistema**. O proprietário do contrato (_anteriormente referido como **Administrador principal**&#x200B;_) é o administrador do sistema que tem acesso aos detalhes do contrato e ao histórico de cobranças. Se você for o proprietário do contrato atual, poderá nomear um administrador do sistema existente (_ anteriormente referido como **administrador secundário**&#x200B;_) como proprietário do contrato.
 
 ![imagem de administrador](assets/storage_admin.png)
 
